@@ -46,8 +46,9 @@ The input data will be presented as one big tab-separated file, where;
 * bidirectional LSTMs
 * experiments with number of layers
 * experiments with additional layers such as Dropout (to prevent overfitting) and BatchNormalisation (to improve optimiser performance)
-*Additionally, **dl-sent-exploration.ipynb** combines the Vader Sentiment features with the learned text features
+* Additionally, **dl-sent-exploration.ipynb** combines the Vader Sentiment features with the learned text features
 
 
-For model weights please contact me at anusha.lihala@gmail.com
+
+*For model weights please contact me at anusha.lihala@gmail.com*
 
